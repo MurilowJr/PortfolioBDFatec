@@ -8,9 +8,11 @@
   - <a href="#lola---assistente-virtual">Lola - Assistente Virtual
 
 <h2>Sobre mim</h2>
-<p align="justify">Graduando pela FATEC São José dos Campos - Profº Jessen Vidal, matriculado no 4º Semestre do curso superior Tecnólogo em Banco de Dados</p>
+<p align="justify">Graduando pela FATEC São José dos Campos - Profº Jessen Vidal, matriculado no 6º Semestre do curso superior Tecnólogo em Banco de Dados</p>
 <p align="justify">Atualmente possuo experiência em engenharia de dados na empresa Giap, utilizando PL/SQL Oracle e low-code com Oracle Application Express(Apex), 
-  também desenvolvo relatórios com JasperReports.</p>
+  também desenvolvo relatórios com JasperReports, sou responsável pela administração da parte de Patrimônios públicos de mais de 25 cidades do Estado de São Paulo,
+  e atualmente estou encarregado na administração de arquivos contábeis de LRFs (AUDESP, STN, Ensino, Saúde), nas quais eu desenvolvo os scripts de acordo com as
+  regras propostas pelo Estado.</p>
 <p align="center">
   <a href="www.linkedin.com/in/murilo-josé-de-brito-junior-32403b157">
     Linkedin
@@ -53,7 +55,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 <h3>Tecnologias Utilizadas</h3>
 
-<p>Linguagem Utilizada: <a href="https://www.python.org/">Python</a></p>
+<p>Linguagem Utilizada: <a href="https://www.python.org/">Python</a></p> , bibliotecas pyttsx3, Google Speech Recognition e Google Trans.
 
 <p>Versionamento: <a href="https://www.github.com/">Github</a></p>
 
@@ -62,17 +64,20 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 ### Contribuições Pessoais
 <details>
-<p align="justify">Atuei no projeto como desenvolvedor, além disso, também fui responsável por criar a logomarca do projeto.</p>
+<br><p align="justify">Atuei no projeto como desenvolvedor, além disso, também fui responsável por criar a logomarca do projeto. A Logo foi justamente pensada em parecer com a personagem "Dora, a Aventureira" pois, como a Dora, a Lola auxilia a
+criança com suas técnicas de aprendizado, e também por ser uma personagem muito cativante para os pequenos.</p>
 <summary>A seguir os detalhes de como foi minha contribuição para a aplicação:</summary>
   <p align="justify"><b><i>- Funcionalidade Tradução:</i></b> Tive a oportunidade de desenvolver a parte de tradução da assistente, com a biblioteca googletrans     para fazer a tradução, speech_recognition para reconhecimento de voz e pyttsx3 para a voz da assistente. No momento em que a criança fala uma palavra, o reconhecimento de voz ouve e transforma o audio em palavras, e traduz de português para inglês, falando a palavra com a linguagem nativa em inglês, fazendo a experiência ser completa.
 
   </p>
-  <b><i>- Tratamento de erros:</i></b> 
+  <b><i>- Tratamento de erros: em alguns momentos do projeto, tivemos alguns erros que impediam a Lola de funcionar normalmente, fiquei responsável em ajudar a resolver estes erros e nos testes para que as funções pudessem agir corretamente na aplicação.</i></b> 
 </details>
 
 <h3>Lições Aprendidas</h3>
-<p align="justify">Tive meu primeiro contato com bibliotecas externas em Python. Também ja tinha noções básicas na metodologia ágil, ajudando a entender como
-funciona na realidade da gestão do projeto.</p>
+<p align="justify">Tive meu primeiro contato com bibliotecas externas em Python, a biblioteca pyttsx3 para dar vida à Assistente Virtual, speech_recognition para comandos de voz, e o googletrans para a parte de tradução. Com estas bibliotecas, eu pude ter mais entendimento em como funcionam as bibliotecas em Python, e também como utilizá-las de forma eficaz.</p>
+<br>
+<p align="justify">A criação da parte de tradução foi o que me proporcionou um grande aprendizado no semestre, desenvolvi toda a lógica de você falar uma palavra ou frase para a assistente e ela traduzir corretamente. Além de ajudar nas minhas habilidades de programação, também me ajudou a utilizar com mais facilidade bibliotecas em Python.</p>
+<p>Foi introduzido a metodologia ágil para gestão do projeto, na qual eu já tinha conhecimentos básicos, e pude aproveitar para me aprimorar nesta metodologia, com a comunicação ágil entre os colegas de equipe, pudemos fazer todas as entregas no prazo e com qualidade.</p>
 
 <h3>Hard Skills</h3>
 <details>
