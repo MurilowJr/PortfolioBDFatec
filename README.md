@@ -182,21 +182,19 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 
 <h3>Tecnologias Utilizadas</h3>
 
-<p>Linguagem Utilizada: <a href="https://www.java.com/pt-BR/">Java</a></p> , bibliotecas pyttsx3, Google Speech Recognition e Google Trans.
+<p>Linguagens Utilizadas: <a href="https://www.java.com/pt-BR/">Java 18.0.2.1</a>, bibliotecas FileWriter, PrintWriter e Swing para design, MySQL 8.0.30.0</p>
 
 <p>Versionamento: <a href="https://www.github.com/">Github</a></p>
 
-<p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, <a href="https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm Community Edition</a></p>
+<p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, MySQL IDE, Netbeans, Eclipse
 
 
 ### Contribuições Pessoais
 <details>
-<br><p align="justify">Atuei no projeto como desenvolvedor, além disso, também fui responsável por criar a logomarca do projeto. A Logo foi justamente pensada em parecer com a personagem "Dora, a Aventureira" pois, como a Dora, a Lola auxilia a
-criança com suas técnicas de aprendizado, e também por ser uma personagem muito cativante para os pequenos.</p>
+<br><p align="justify">Neste projeto atuei principalmente como Product Owner (PO), entendendo a dor do cliente, criação de backlog do produto, priorização de backlog, organização de sprints juntamente com o Scrum Master, criação de Wireframes, drafts e prototipos, comunicação com o cliente e Scrum Master sobre dúvidas dos desenvolvedores, definição de entregas.</p>
 <summary>A seguir os detalhes de como foi minha contribuição para a aplicação:</summary>
-  <p align="justify"><b><i>- Funcionalidade Tradução:</i></b> Tive a oportunidade de desenvolver a parte de tradução da assistente, com a biblioteca googletrans     para fazer a tradução, speech_recognition para reconhecimento de voz e pyttsx3 para a voz da assistente. No momento em que a criança fala uma palavra, o reconhecimento de voz ouve e transforma o audio em palavras, e traduz de português para inglês, falando a palavra com a linguagem nativa em inglês, fazendo a experiência ser completa.
-
-  </p>
+  <p align="justify">Como neste projeto era obrigatório a criação de novas telas, desenvolvi os drafts e protótipos de tela pelo aplicativo Figma.</p>
+  <img src="https://github.com/MurilowJr/PortfolioBDFatec/blob/main/2semestre/img/Layout%20tela%20Menu%20RH.pdf">
   <b><i>- Tratamento de erros: em alguns momentos do projeto, tivemos alguns erros que impediam a Lola de funcionar normalmente, fiquei responsável em ajudar a resolver estes erros e nos testes para que as funções pudessem agir corretamente na aplicação.</i></b> 
 </details>
 
