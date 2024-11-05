@@ -192,17 +192,14 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 ### Contribuições Pessoais
 <details>
 <br><p align="justify">Neste projeto atuei principalmente como Product Owner (PO), entendendo a dor do cliente, criação de backlog do produto, priorização de backlog, organização de sprints juntamente com o Scrum Master, criação de Wireframes, drafts e prototipos, comunicação com o cliente e Scrum Master sobre dúvidas dos desenvolvedores, definição de entregas.</p>
-<summary>A seguir os detalhes de como foi minha contribuição para a aplicação:</summary>
-  <p align="justify">Como neste projeto era obrigatório a criação de novas telas, desenvolvi os drafts e protótipos de tela pelo aplicativo Figma.</p>
-  <img src="https://github.com/MurilowJr/PortfolioBDFatec/blob/main/2semestre/img/Layout%20tela%20Menu%20RH.pdf">
-  <b><i>- Tratamento de erros: em alguns momentos do projeto, tivemos alguns erros que impediam a Lola de funcionar normalmente, fiquei responsável em ajudar a resolver estes erros e nos testes para que as funções pudessem agir corretamente na aplicação.</i></b> 
 </details>
 
 <h3>Lições Aprendidas</h3>
-<p align="justify">Tive meu primeiro contato com bibliotecas externas em Python, a biblioteca pyttsx3 para dar vida à Assistente Virtual, speech_recognition para comandos de voz, e o googletrans para a parte de tradução. Com estas bibliotecas, eu pude ter mais entendimento em como funcionam as bibliotecas em Python, e também como utilizá-las de forma eficaz.</p>
+<p align="justify">Como neste projeto era obrigatório a criação de novas telas, desenvolvi os drafts e protótipos de tela pelo aplicativo Figma, foi meu primeiro contato com a ferramenta, tive a oportunidade de exercer a criatividade, e pensamos que seria
+  agradável colocar o layout das telas de acordo com as cores da empresa parceira Pro4tech, combando com elementos modernos, como ícones, também pensamos em um layout simples e intuitivo, feito para todos entenderem como funciona com muito mais praticidade.</p>
+  <p><a href="https://github.com/MurilowJr/PortfolioBDFatec/blob/main/2semestre/img/Layout%20tela%20Menu%20RH.pdf">Drafts do Figma</p> </a><br>
 <br>
-<p align="justify">A criação da parte de tradução foi o que me proporcionou um grande aprendizado no semestre, desenvolvi toda a lógica de você falar uma palavra ou frase para a assistente e ela traduzir corretamente. Além de ajudar nas minhas habilidades de programação, também me ajudou a utilizar com mais facilidade bibliotecas em Python.</p>
-<p>Foi introduzido a metodologia ágil para gestão do projeto, na qual eu já tinha conhecimentos básicos, e pude aproveitar para me aprimorar nesta metodologia, com a comunicação ágil entre os colegas de equipe, pudemos fazer todas as entregas no prazo e com qualidade.</p>
+<p align="justify">Foi muito importante a comunicação com a equipe e com o cliente para a assertividade do nosso projeto, eu aprendi a conhecer melhor as pessoas do meu time, e também a me comunicar de forma em que ambas as partes entendiam, também aprendi muito mais sobre visão de negócio e consegui ter uma organização melhor.</p>
 
 <h3>Hard Skills</h3>
 <details>
@@ -214,8 +211,8 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Python</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>Java</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Github</td>
@@ -223,11 +220,11 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
     </tr>
     <tr>
       <td>VSCode</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★★★★★★★</td>
     </tr>
     <tr>
-      <td>PyCharm</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>MySQL</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
   </table>
 </details>
@@ -243,15 +240,15 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★★★★★★★</td>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
       <td>Empatia</td>
@@ -259,15 +256,15 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
     </tr>
     <tr>
       <td>Inteligência Emocional</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
   </table>
 </details>
