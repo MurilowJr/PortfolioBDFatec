@@ -2,27 +2,21 @@
 <p align="center"><img src="https://github.com/MurilowJr/bertoti/blob/main/Metodologia/img/murilo.jpeg" width=25%></p>
 <p>Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
-# Sumário
-- <a href="#sobre-mim">Sobre mim
-- <a href="#meus-projetos">Meus Projetos
-  - <a href="#lola---assistente-virtual">Lola - Assistente Virtual
-  - <a href="#pro4tech---rh">Pro4Tech - RH
-
 <h2>Sobre mim</h2>
 <p align="justify">Graduando pela FATEC São José dos Campos - Profº Jessen Vidal, matriculado no 6º Semestre do curso superior Tecnólogo em Banco de Dados</p>
 <p align="justify">Atualmente possuo experiência em engenharia de dados na empresa Giap, utilizando PL/SQL Oracle e low-code com Oracle Application Express(Apex), 
   também desenvolvo relatórios com JasperReports, sou responsável pela administração da parte de Patrimônios públicos de mais de 25 cidades do Estado de São Paulo,
   e atualmente estou encarregado na administração de arquivos contábeis de LRFs (AUDESP, STN, Ensino, Saúde), nas quais eu desenvolvo os scripts de acordo com as
   regras propostas pelo Estado.</p>
-<p align="center">
+
+<h2>Contato</h2>
   <a href="www.linkedin.com/in/murilo-josé-de-brito-junior-32403b157">
-    Linkedin
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <>
   <a href="https://github.com/MurilowJr">
-    Github
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+
 <hr>
 <h2>Meus Projetos</h2>
 <h3>Lola - Assistente Virtual</h3>
@@ -271,3 +265,15 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
   <br>
   <p><a href="#sumário">Voltar para o início</a></p>
   <br>
+
+
+<h2>4° Semestre - Jaia: Inspeções Prediais</h2>
+
+<p>Data: Agosto/2023</p>
+
+<p>Link do projeto: <a href="https://github.com/Data-Team23/Jaia">Jaia</a></p> 
+
+<p><b>Problema:</b> Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios modernos e históricos, a empresa Jaia, apresentou um desafio significativo. A condução de inspeções prediais estava provando ser uma tarefa morosa e suscetível a imprecisões. Diante desse cenário, a Jaia buscou soluções inovadoras para otimizar esse processo crucial. A visão estratégica da empresa contemplou o desenvolvimento de um software de inspeção predial, projetado para revolucionar a abordagem atual. </p>
+
+<p><b>Poposta de Solução:</b> Desenvolvemos um Sistema em Web que garante o gerenciamento das inspeções prediais, de forma intuitiva, capacitando os inspetores a documentar minuciosamente detalhes relevantes e capturar evidências visuais de forma eficaz. Também garante a geração de relatório para a empresa, cadastro de clientes e funcionários, e geração automática de e-mail com aprovação/reprovação de ordens de serviço. </p>
+
