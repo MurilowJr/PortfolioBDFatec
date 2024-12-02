@@ -277,3 +277,31 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 
 <p><b>Poposta de Solução:</b> Desenvolvemos um Sistema em Web que garante o gerenciamento das inspeções prediais, de forma intuitiva, capacitando os inspetores a documentar minuciosamente detalhes relevantes e capturar evidências visuais de forma eficaz. Também garante a geração de relatório para a empresa, cadastro de clientes e funcionários, e geração automática de e-mail com aprovação/reprovação de ordens de serviço. </p>
 
+<p><b>Tecnologias utilizadas</b></p>
+
+- <b>VueJS:</b> framework JavaScript progressivo usado para construir interfaces de usuário (UI) e aplicativos front-end interativos.
+- <b>Oracle SQL:</b> usado como uma linguagem de consulta e manipulação de dados para interagir com bancos de dados Oracle. Ele é essencial para gerenciar, consultar e operar sobre grandes volumes de dados em sistemas baseados no Oracle Database, que é amplamente adotado em ambientes corporativos.
+- <b>Java:</b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems
+- <b>Javascript:</b> Linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web interativas e dinâmicas.
+- <b>HTML5:</b> Linguagem de marcação utilizada na construção de páginas na Web
+- <b>CSS:</b>  Linguagem de estilização usada para descrever a apresentação de um documento escrito em HTML
+
+<p><b>Contribuições Pessoais</b></p>
+<p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
+
+- Modelagem e criação do banco de dados
+- Gerenciamento de banco de dados
+- Criação do modelo de relatório para envio no e-mail dos clientes
+- Criação de documentação do produto
+- Criação de endpoints do backend com o banco de dados
+  
+<p><b>Hard Skills</b></p>
+
+- <b>VueJS:</b> Domínio na construção de interfaces dinâmicas, habilidade em construção de componentes modulares, que podem ser reutilizados em diferentes partes de uma aplicação, melhorando a organização e a manutenção do código, realizando a integrações com APIs.
+- <b>Oracle SQL:</b> Modelagem, criação e gerenciamento de um banco de dados, utilizando linguagem SQL para consultas simples ou com agregações de dados, através de junções de tabelas, criações de triggers para administração dos dados, e criação de packages para melhor reutilização de procedimentos.
+- <b>Java:</b> Criação de CRUD e endpoints que interligam diretamente com o banco de dados e com o Frontend.
+
+<p><b>Soft Skills</b></p>
+
+- <b>Trabalho em equipe</b>: Durante o desenvolvimento do projeto, como eu tenho bastante experiência em Oracle SQL, um dos integrantes do grupo encontrou dificuldades no entendimento de criação de triggers e de procedures. Em resposta, em sala de aula, auxiliei este integrante e esclareci as dúvidas necessárias, de como um trigger funciona, e como procedures e functions funcionam ao serem chamadas no código.
+- <b>Proatividade:</b> Como eu estava responsável na maior parte do projeto em banco de dados, ao terminar minhas tarefas, me propunha sempre a ajudar em alguma tarefa que não estivesse startada, e também no auxílio de tratamento de erros que ocorriam durante o processo.
