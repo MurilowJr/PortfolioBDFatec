@@ -266,6 +266,17 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
   <p><a href="#sumário">Voltar para o início</a></p>
   <br>
 
+---
+
+<h2>3° Semestre - Dom Rock: Planejamento de vendas</h2>
+
+<p>Data: Fevereiro/2023</p>
+
+<p>Link do projeto: <a href="https://github.com/Thunder53/Dom-Rock">Dom Rock</a></p>
+
+<p><b>Problema:</b> </p>
+
+---
 
 <h2>4° Semestre - Jaia: Inspeções Prediais</h2>
 
