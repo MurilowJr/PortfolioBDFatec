@@ -274,7 +274,23 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 
 <p>Link do projeto: <a href="https://github.com/Thunder53/Dom-Rock">Dom Rock</a></p>
 
-<p><b>Problema:</b> </p>
+<p><b>Problema:</b> A Dom Rock recebe a predição de vendas de seus clientes em formato csv tendo que padronizar todos os arquivos antes do uso, sendo assim sentiu necessidade de uma aplicação web que facilitaria a entrada destes dados em um padrão definido diminuindo o tempo gasto com a padronização.</p>
+
+<p><b>Poposta de Solução:</b> Desenvolvemos um sistema web para lidar com o histórico de movimentação de produtos (vendas e estoque), predição de faturamento (feito por um algoritmo de IA já existente) e a entrada de dados oriundas da força de vendas quanto ao planejamento futuro, mostrando para o vendedor se ele está positivo ou negativo em seu saldo de vendas.</p>
+
+<p><b>Tecnologias utilizadas</b></p>
+
+- <b>Springboot:</b> API em Java usada para criar aplicações web e microsserviços de forma rápida e simplificada.
+- <b>PostgreSQL:</b> Banco de dados relacional muito utilizado por sua performance, escalabilidade e confiabilidade. Ele permite armazenar, consultar e manipular dados usando SQL, suportando transações ACID, JSON, índices avançados e replicação. Ideal para aplicações de pequeno a grande porte.
+- <b>Javascript:</b> Linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web interativas e dinâmicas.
+- <b>Java:</b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems
+- <b>HTML5:</b> Linguagem de marcação utilizada na construção de páginas na Web
+- <b>CSS:</b> Linguagem de estilização usada para descrever a apresentação de um documento escrito em HTML
+- <b>Figma:</b> Amplamente utilizada para criação de drafts e protótipos de telas, para demonstração de como a interface irá funcionar.
+
+<p><b>Contribuições Pessoais</b></p>
+
+
 
 ---
 
