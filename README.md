@@ -289,7 +289,16 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 - <b>Figma:</b> Amplamente utilizada para criação de drafts e protótipos de telas, para demonstração de como a interface irá funcionar.
 
 <p><b>Contribuições Pessoais</b></p>
+<p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
 
+- Implementação de backend com framework Springboot em java
+- Criação de endpoint de buscar nome por vendedor
+- Implementação de criar metas atingidas
+- Desenvolvimento de Controllers, Services e Repositories
+
+- <b>Springboot:</b> Experiência no desenvolvimento de aplicações backend utilizando o framework Spring Boot, com foco na criação de APIs RESTful. Atuação na estruturação de projetos seguindo boas práticas de arquitetura em camadas (Controller, Service, Repository), implementação de operações CRUD, e integração com o frontend por meio de endpoints bem definidos. Familiaridade com o gerenciamento de dependências via Maven e configuração de ambientes de desenvolvimento.
+- <b>PostgreSQL:</b> Experiência na modelagem e manipulação de bancos de dados relacionais, criação de tabelas com integridade referencial, definição de relacionamentos entre entidades e uso de índices para otimização de consultas. Utilização de SQL para operações de CRUD, filtros complexos e junções. Integração com aplicações Java através do Spring Data JPA, garantindo persistência eficiente e segura dos dados.
+- <b>Java:</b> Experiência no desenvolvimento de aplicações utilizando Java com foco em orientação a objetos, organização modular e reutilização de código. Criação de APIs e sistemas backend, com implementação de regras de negócio, consumo e exposição de serviços REST, e integração com bancos de dados por meio do framework Springboot. Familiaridade com estruturas de dados, tratamento de exceções e boas práticas de codificação.
 
 
 ---
