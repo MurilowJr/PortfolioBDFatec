@@ -18,64 +18,46 @@
   </a>
 
 <hr>
-<h2>Meus Projetos</h2>
-<h3>Lola - Assistente Virtual</h3>
-<h4>1° Semestre - 01/2022</h4>
+<h1>Meus Projetos</h1>
+<h2>Lola - Assistente Virtual</h2>
+
+<p>1° Semestre - Fevereiro/2022</p>
+
 <p align="justify">Parceiro acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a></p>
+
 <p align="justify">Link do projeto: <a href="https://github.com/OsReservas/API_LOLA-ASSISTENTE-VIRTUAL">LOLA</a></p>
-<p align="center"><img src="https://github.com/MurilowJr/bertoti/blob/main/Metodologia/sem1/img/avatar.jpeg" width=50%></p>
 
-<h3>Descrição do Projeto</h3>    
-<p align="justify">Lola é a assistente virtual voltada para crianças na faixa etária de 5 a 8 anos e ativada por comando de voz.</p>
-<p></p>Utilizando a palavra chave de" Oi Lola" sendo possivel que ela faça diversas atividades, como soletrar e traduzir palavras</p>
+<p><b>Problema:</b>Crianças entre 5 e 8 anos têm dificuldade em encontrar ferramentas tecnológicas que sejam educativas, acessíveis e interativas para auxiliar em atividades do dia a dia.</p>
 
-<p>A Logo foi inspirada na Dora a Aventureira, pela sua insistência em querer ajudar e pedir para as crianças repetirem o que vêm na tela, o design foi feito por mim.</p>
+<p><b>Poposta de Solução:</b> Desenvolver uma assistente virtual ativada por voz chamada LOLA, que pudesse interagir com crianças através de comandos simples para ajudá-las em atividades básicas como cálculos, tradução de palavras, contação de histórias e muito mais. A palavra-chave de ativação era “Oi Lola”.</p>
 
-- <b>Objetivo Geral</b>
-  <p align="justify">Desenvolvimento de um aplicativo de assistente de voz, com foco em ajudar crianças com seus afazeres.</p>
-
-- <b>Objetivos Específicos</b>
-
-  <p align="justify">Como objetivos específicos temos:</p>
-     <p>- Uso de Metodologia Ágil para Planejamento, desenvolvimento de Backlog do Produto e consolidação do Mínimo Produto Viável (MVP) para cada Sprint;</p>
-     <p>- Utilização de Algoritmos e Lógica de Programação, utilizando o Python com programação orientada a objetos.</p>
-<p align="justify">A partir dos objetivos propostos, o aplicativo foi desenvolvido com 8 (oito) funcionalidades: cálculos matemáticos, 
-contar histórias, despertador, traduzir do inglês para português, ensinar o passo a passo para escovar os dentes, jogos,
-dicionário e soletrar palavras. Neste projeto não era necessário implementar interface, então fizemos excluisvamente para rodar direto do Ambiente de Desenvolvimento
-Integrado (IDE).</p>
-
-### Funcionalidade da LOLA
-
-<a href="https://youtu.be/jjufDyLCwD0" target="_blank"><img src="http://img.youtube.com/vi/1kOpWTWIV2Q/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
+> A identidade visual da assistente foi inspirada na personagem "Dora, a Aventureira", trazendo proximidade e empatia com o público infantil.
 
 <h3>Tecnologias Utilizadas</h3>
 
-<p>Linguagem Utilizada: <a href="https://www.python.org/">Python</a></p> , bibliotecas pyttsx3, Google Speech Recognition e Google Trans.
+- <b>Python:</b> Linguagem principal do projeto, é uma linguagem de alto nível, utilizamos para o desenvolvimento geral com bibliotecas.
+- <b>Pyttsx3:</b> uma biblioteca de text-to-speech (TTS) em Python, que converte texto em fala.
+- <b>Google Speech Recognition:</b> uma biblioteca que converte texto em fala, facilita a integração com o Google Speech-to-Text, além de suportar outros motores de reconhecimento de fala.
+- <b>Google Trans:</b> é uma biblioteca Python não oficial para acessar o serviço de tradução automática do Google Translate.
+- <b>Github:</b> plataforma de hospedagem de código-fonte que utiliza o Git, um sistema de controle de versão distribuído, para ajudar desenvolvedores a gerenciar e compartilhar projetos de software. 
 
-<p>Versionamento: <a href="https://www.github.com/">Github</a></p>
+<p><b>Contribuições Pessoais</b></p>
+<p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto:</b></p>
 
-<p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, <a href="https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm Community Edition</a></p>
+- **Desenvolvimento da funcionalidade de Tradução:**  
+  Criação da lógica que escuta a palavra/frase em português, traduz para o inglês utilizando a `googletrans`, e reproduz a fala com pronúncia correta usando `pyttsx3`.
+  
+- **Tratamento de erros:**  
+  Atuei na depuração de erros que impediam o funcionamento da assistente, garantindo que todas as funcionalidades operassem corretamente.
+
+- **Design da Logo:**  
+  Fui responsável pela criação da logomarca da assistente, inspirada na personagem "Dora", conectando visualmente o público infantil com a proposta do projeto.
+
+<p><b>Hard Skills</b></p>
+
+- <b>Python:</b> Domínio na utilização de bibliotecas e python .
 
 
-### Contribuições Pessoais
-<details>
-<br><p align="justify">Atuei no projeto como desenvolvedor, além disso, também fui responsável por criar a logomarca do projeto. A Logo foi justamente pensada em parecer com a personagem "Dora, a Aventureira" pois, como a Dora, a Lola auxilia a
-criança com suas técnicas de aprendizado, e também por ser uma personagem muito cativante para os pequenos.</p>
-<summary>A seguir os detalhes de como foi minha contribuição para a aplicação:</summary>
-  <p align="justify"><b><i>- Funcionalidade Tradução:</i></b> Tive a oportunidade de desenvolver a parte de tradução da assistente, com a biblioteca googletrans     para fazer a tradução, speech_recognition para reconhecimento de voz e pyttsx3 para a voz da assistente. No momento em que a criança fala uma palavra, o reconhecimento de voz ouve e transforma o audio em palavras, e traduz de português para inglês, falando a palavra com a linguagem nativa em inglês, fazendo a experiência ser completa.
-
-  </p>
-  <b><i>- Tratamento de erros: em alguns momentos do projeto, tivemos alguns erros que impediam a Lola de funcionar normalmente, fiquei responsável em ajudar a resolver estes erros e nos testes para que as funções pudessem agir corretamente na aplicação.</i></b> 
-</details>
-
-<h3>Lições Aprendidas</h3>
-<p align="justify">Tive meu primeiro contato com bibliotecas externas em Python, a biblioteca pyttsx3 para dar vida à Assistente Virtual, speech_recognition para comandos de voz, e o googletrans para a parte de tradução. Com estas bibliotecas, eu pude ter mais entendimento em como funcionam as bibliotecas em Python, e também como utilizá-las de forma eficaz.</p>
-<br>
-<p align="justify">A criação da parte de tradução foi o que me proporcionou um grande aprendizado no semestre, desenvolvi toda a lógica de você falar uma palavra ou frase para a assistente e ela traduzir corretamente. Além de ajudar nas minhas habilidades de programação, também me ajudou a utilizar com mais facilidade bibliotecas em Python.</p>
-<p>Foi introduzido a metodologia ágil para gestão do projeto, na qual eu já tinha conhecimentos básicos, e pude aproveitar para me aprimorar nesta metodologia, com a comunicação ágil entre os colegas de equipe, pudemos fazer todas as entregas no prazo e com qualidade.</p>
-
-<h3>Hard Skills</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
