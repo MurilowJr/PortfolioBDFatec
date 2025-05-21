@@ -219,10 +219,16 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 - Implementação de criar metas atingidas
 - Desenvolvimento de Controllers, Services e Repositories
 
+
+<p><b>Hard Skills:</b></p>
 - <b>Springboot:</b> Experiência no desenvolvimento de aplicações backend utilizando o framework Spring Boot, com foco na criação de APIs RESTful. Atuação na estruturação de projetos seguindo boas práticas de arquitetura em camadas (Controller, Service, Repository), implementação de operações CRUD, e integração com o frontend por meio de endpoints bem definidos. Familiaridade com o gerenciamento de dependências via Maven e configuração de ambientes de desenvolvimento.
 - <b>PostgreSQL:</b> Experiência na modelagem e manipulação de bancos de dados relacionais, criação de tabelas com integridade referencial, definição de relacionamentos entre entidades e uso de índices para otimização de consultas. Utilização de SQL para operações de CRUD, filtros complexos e junções. Integração com aplicações Java através do Spring Data JPA, garantindo persistência eficiente e segura dos dados.
 - <b>Java:</b> Experiência no desenvolvimento de aplicações utilizando Java com foco em orientação a objetos, organização modular e reutilização de código. Criação de APIs e sistemas backend, com implementação de regras de negócio, consumo e exposição de serviços REST, e integração com bancos de dados por meio do framework Springboot. Familiaridade com estruturas de dados, tratamento de exceções e boas práticas de codificação.
 
+<p><b>Soft Skills:</b></p>
+<b>Inteligência Emocional:</b> Com a mudança de equipe e pequenos problemas com a saída de PO, consegui manter a calma e ser resiliente para continuar a entrega das tarefas delegadas a mim
+<b>Aprendizado Contínuo:</b>  Com a API Spring Boot, tive a oportunidade de aprimorar meus conhecimentos em Java, explorando na prática conceitos como injeção de dependência, arquitetura em camadas, consumo de APIs REST e integração com bancos de dados. Esse processo reforçou minha capacidade de aprender de forma autônoma, buscar soluções em documentação técnica e adaptar-me rapidamente a novas tecnologias.
+<b>Trabalho em equipe:</b> O trabalho em equipe me ajudou muito a ter mais conhecimento e experiência em programação Java, pois quando eu tive algumas dúvidas em relação ao projeto, rapidamente meus colegas de equipe vieram e me auxiliaram para que eu conseguisse concluir minhas tarefas.
 
 ---
 
