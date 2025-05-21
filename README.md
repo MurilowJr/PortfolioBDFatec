@@ -55,78 +55,19 @@
 
 <p><b>Hard Skills</b></p>
 
-- <b>Python:</b> Domínio na utilização de bibliotecas e python .
+- <b>Python:</b> Domínio na utilização de bibliotecas e python
+- <b>Google Trans:</b> Domínio na biblioteca de tradução do Google, traduzindo em inglês o que é falado para a aplicação 
+- <b>Speech Recognition:</b> Experiência na biblioteca de reconhecimento de voz do Google que, juntamente com a de tradução, facilitou no reconhecimento de voz e assim traduzindo e falando as palavras em inglês.
+- <b>Pyttsx3:</b> Experiência e domínio na biblioteca pyttsx3, que foi a base da aplicação, facilitando comandos de voz e fala da nossa assistente virtual
+- <b>Github:</b> Domínio na ferramenta de versionamento Github, aprendendo controle de versão, commit e rollback, verificando mudanças de código e erros.
 
+<p><b>Soft Skills</b></p>
 
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Github</td>
-      <td>★★★★★★★★★★</td>
-    </tr>
-    <tr>
-      <td>VSCode</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>PyCharm</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-  </table>
-</details>
-
-<h3>Soft Skills</h3>
-<details>
-<summary><b>Clique para ver a lista de soft skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação Assertiva</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Empatia</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Inteligência Emocional</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Resiliência</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-  </table>
-</details>
-  <br>
-  <p><a href="#sumário">Voltar para o início</a></p>
-  <br>
+- <b>Proatividade:</b> Com certa experiência em python, eu conseguia identificar pequenos erros de código que impossibilitavam a aplicação de funcionar corretamente, e com isso, resolvi os erros com mais facilidade, ajudando aos meus colegas de equipe a resolvê-los também
+- <b>Comunicação Assertiva:</b> Com a comunicação em equipe, pudemos resolver todas as pendências dentro do prazo requerido, auxiliando no tratamento do código e na otimização da aplicação.
+- <b>Visão de Negócio:</b> Graças ao nosso PO (Product Owner), consegui entender a visão de negócio facilmente, entendendo as dores do cliente e conseguindo entregar o combinado.
+- <b>Empatia:</b> É muito importante entender que em alguns casos, as pessoas terão dificuldades, não apenas de entrega, mas emocionais e as vezes até psicológicas, e com isso, ter empatia ajudou a nossa equipe a tornar todo o trabalho mais leve e mais assertivo.
+- <b>Trabalho em equipe:</b> Aprendi bastante a trabalhar em equipe com meus colegas, com comunicação e respeito, consegui ajudar a tratar os erros de código juntamente com os membros de equipe, contribuindo com a entrega da aplicação.
 
 ---
 
