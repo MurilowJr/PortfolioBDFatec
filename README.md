@@ -27,7 +27,7 @@
 
 <p align="justify">Link do projeto: <a href="https://github.com/OsReservas/API_LOLA-ASSISTENTE-VIRTUAL">LOLA</a></p>
 
-<p><b>Problema:</b>Crianças entre 5 e 8 anos têm dificuldade em encontrar ferramentas tecnológicas que sejam educativas, acessíveis e interativas para auxiliar em atividades do dia a dia.</p>
+<p><b>Problema:</b> Crianças entre 5 e 8 anos têm dificuldade em encontrar ferramentas tecnológicas que sejam educativas, acessíveis e interativas para auxiliar em atividades do dia a dia.</p>
 
 <p><b>Poposta de Solução:</b> Desenvolver uma assistente virtual ativada por voz chamada LOLA, que pudesse interagir com crianças através de comandos simples para ajudá-las em atividades básicas como cálculos, tradução de palavras, contação de histórias e muito mais. A palavra-chave de ativação era “Oi Lola”.</p>
 
@@ -71,17 +71,19 @@
 
 ---
 
-<h3>Pro4Tech - RH</h3>
-<h4>2° Semestre - 08/2022</h4>
+<h2>2° Semestre - Pro4Tech: Recursos Humanos</h2>
+<p>Data - Agosto/2022</p>
 <p align="justify">Parceiro acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
 <p align="justify">Link do projeto: <a href="https://github.com/OsReservas/Project-RH">Pro4Tech RH</a></p>
-<p align="center"><img src="https://github.com/OsReservas/Project-RH/blob/main/doc/image/logo-sliders.svg" width=50%></p>
 
-<h3>Descrição do Projeto</h3>    
-<p align="justify">A Pro4tech é uma fábrica de softwares que por meio da utilização de práticas avançadas desenvolve soluções de software sob medida, ajudando clientes a inovar, se diferenciar e crescer. Com experiência em diversas tecnologias, construindo aplicações Web e Mobile inseridas em contextos de alta complexidade e necessidades específicas para cada negócio, com sede na cidade de São Paulo.</p>
+<p><b>Problema:</b> A Pro4Tech é uma fábrica de softwares que por meio da utilização de práticas avançadas, desenvolve soluções de software sob medida, ajudando clientes a inovar, se diferenciar e crescer. Com isso, a empresa sentiu a necessidade de desenvolver um sistema de Recursos Humanos, onde precisam criar cadastros de funcionários e de candidatos a emprego, além de vagas de emprego disponíveis e um relatório abrangendo todo o sistema.
 
-- <b>Objetivo Geral</b>
-  <p align="justify">O objetivo de nosso Projeto Integrado é criar um sistema de gerenciamento de vaga para Recursos Humanos, onde serão cruzados os dados dos candidatos com as vagas disponíveis, gerando assim um relatório para o RH.</p>
+<p><b>Poposta de Solução:</b> Desenvolvemos um aplicativo em Java que gerencia as vagas para o setor de Recursos Humanos, onde estão cruzados todos os dados dos candidatos e vagas disponíveis, além de o administrador poder inserir, alterar e deletar cadastros de funcionários, e também o funcionário pode criar e administrar vagas, e também emitir relatórios de acessos de uma determinada vaga para análise.
+  
+<p><b>Tecnologias utilizadas</b></p>
+
+- <b>Java: </b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems.
+- <b>MySQL: </b> 
 
 - <b>Objetivos Específicos</b>
 
@@ -221,14 +223,16 @@ Foi criado um manual contendo as funcionalidades do projeto, com imagens e víde
 
 
 <p><b>Hard Skills:</b></p>
+
 - <b>Springboot:</b> Experiência no desenvolvimento de aplicações backend utilizando o framework Spring Boot, com foco na criação de APIs RESTful. Atuação na estruturação de projetos seguindo boas práticas de arquitetura em camadas (Controller, Service, Repository), implementação de operações CRUD, e integração com o frontend por meio de endpoints bem definidos. Familiaridade com o gerenciamento de dependências via Maven e configuração de ambientes de desenvolvimento.
 - <b>PostgreSQL:</b> Experiência na modelagem e manipulação de bancos de dados relacionais, criação de tabelas com integridade referencial, definição de relacionamentos entre entidades e uso de índices para otimização de consultas. Utilização de SQL para operações de CRUD, filtros complexos e junções. Integração com aplicações Java através do Spring Data JPA, garantindo persistência eficiente e segura dos dados.
 - <b>Java:</b> Experiência no desenvolvimento de aplicações utilizando Java com foco em orientação a objetos, organização modular e reutilização de código. Criação de APIs e sistemas backend, com implementação de regras de negócio, consumo e exposição de serviços REST, e integração com bancos de dados por meio do framework Springboot. Familiaridade com estruturas de dados, tratamento de exceções e boas práticas de codificação.
 
 <p><b>Soft Skills:</b></p>
-<b>Inteligência Emocional:</b> Com a mudança de equipe e pequenos problemas com a saída de PO, consegui manter a calma e ser resiliente para continuar a entrega das tarefas delegadas a mim
-<b>Aprendizado Contínuo:</b>  Com a API Spring Boot, tive a oportunidade de aprimorar meus conhecimentos em Java, explorando na prática conceitos como injeção de dependência, arquitetura em camadas, consumo de APIs REST e integração com bancos de dados. Esse processo reforçou minha capacidade de aprender de forma autônoma, buscar soluções em documentação técnica e adaptar-me rapidamente a novas tecnologias.
-<b>Trabalho em equipe:</b> O trabalho em equipe me ajudou muito a ter mais conhecimento e experiência em programação Java, pois quando eu tive algumas dúvidas em relação ao projeto, rapidamente meus colegas de equipe vieram e me auxiliaram para que eu conseguisse concluir minhas tarefas.
+
+- <b>Inteligência Emocional:</b> Com a mudança de equipe e pequenos problemas com a saída de PO, consegui manter a calma e ser resiliente para continuar a entrega das tarefas delegadas a mim
+- <b>Aprendizado Contínuo:</b>  Com a API Spring Boot, tive a oportunidade de aprimorar meus conhecimentos em Java, explorando na prática conceitos como injeção de dependência, arquitetura em camadas, consumo de APIs REST e integração com bancos de dados. Esse processo reforçou minha capacidade de aprender de forma autônoma, buscar soluções em documentação técnica e adaptar-me rapidamente a novas tecnologias.
+- <b>Trabalho em equipe:</b> O trabalho em equipe me ajudou muito a ter mais conhecimento e experiência em programação Java, pois quando eu tive algumas dúvidas em relação ao projeto, rapidamente meus colegas de equipe vieram e me auxiliaram para que eu conseguisse concluir minhas tarefas.
 
 ---
 
