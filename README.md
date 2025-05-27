@@ -85,20 +85,6 @@
 - <b>Java: </b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems.
 - <b>MySQL: </b> 
 
-- <b>Objetivos Específicos</b>
-
-  <p align="justify">Como objetivos específicos temos:</p>
-     <p>- Uso de Metodologia Ágil para Planejamento, desenvolvimento de Backlog do Produto e consolidação do Mínimo Produto Viável (MVP) para cada Sprint;</p>
-     <p>- Utilização de Algoritmos e Lógica de Programação, utilizando o Java com programação orientada a objetos.</p>
-<p align="justify">A partir dos objetivos propostos, o aplicativo foi desenvolvido com 11 (onze) funcionalidades: cálculos matemáticos, 
-contar histórias, despertador, traduzir do inglês para português, ensinar o passo a passo para escovar os dentes, jogos,
-dicionário e soletrar palavras. Neste projeto não era necessário implementar interface, então fizemos excluisvamente para rodar direto do Ambiente de Desenvolvimento
-Integrado (IDE).</p>
-
-### Funcionalidade do projeto
-Foi criado um manual contendo as funcionalidades do projeto, com imagens e vídeos ilustrativos.
-<p align="center"><b>Você pode acessar o manual de como baixar e utilizar o sistema clicando <a href="https://github.com/ZeldaBD/Project-RH/tree/version-0.3/Como-usar"><em>aqui</em></a></b></p><br><br>
-
 <h3>Tecnologias Utilizadas</h3>
 
 <p>Linguagens Utilizadas: <a href="https://www.java.com/pt-BR/">Java 18.0.2.1</a>, bibliotecas FileWriter, PrintWriter e Swing para design, MySQL 8.0.30.0</p>
