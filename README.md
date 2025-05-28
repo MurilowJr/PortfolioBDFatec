@@ -90,6 +90,7 @@
 
 <p><b>Contribuições Pessoais</b></p>
 <p align="justify"><b>Como Product Owner (PO) realizei as seguintes contribuições para o projeto</b></p>
+
 - Gerenciar o Product Backlog
 - Definir prioridades de negócio
 - Entender as necessidades do cliente e do mercado
