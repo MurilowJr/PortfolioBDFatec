@@ -82,22 +82,20 @@
   
 <p><b>Tecnologias utilizadas</b></p>
 
-- <b>Java: </b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems.
-- <b>MySQL: </b> 
+- <b>Java:</b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems.
+- <b>MySQL:</b> banco de dados relacional open-source amplamente usado para armazenar e gerenciar dados usando SQL. Ele é conhecido por ser rápido, leve e fácil de usar, com bom desempenho em aplicações web. Também suporta transações, replicação e alta disponibilidade. Ideal para projetos pequenos a médios.
+- <b>FileWriter:</b> biblioteca em Java, é usada para escrever texto em arquivos. Ela faz parte do pacote java.io e permite gravar caracteres de forma simples.
+- <b>Swing:</b> é uma API gráfica (GUI) do Java usada para criar interfaces de usuário com janelas, botões, caixas de texto, tabelas, menus, entre outros componentes.
+- <b>Eclipse:</b> uma IDE robusta, gratuita e open-source, ideal para desenvolver aplicações Java e outras linguagens, com muitos recursos para produtividade e organização de código.
 
-<h3>Tecnologias Utilizadas</h3>
-
-<p>Linguagens Utilizadas: <a href="https://www.java.com/pt-BR/">Java 18.0.2.1</a>, bibliotecas FileWriter, PrintWriter e Swing para design, MySQL 8.0.30.0</p>
-
-<p>Versionamento: <a href="https://www.github.com/">Github</a></p>
-
-<p>Ferramentas de Desenvolvimento: <a href="https://code.visualstudio.com/">VSCode</a>, MySQL IDE, Netbeans, Eclipse
-
-
-### Contribuições Pessoais
-<details>
-<br><p align="justify">Neste projeto atuei principalmente como Product Owner (PO), entendendo a dor do cliente, criação de backlog do produto, priorização de backlog, organização de sprints juntamente com o Scrum Master, criação de Wireframes, drafts e prototipos, comunicação com o cliente e Scrum Master sobre dúvidas dos desenvolvedores, definição de entregas.</p>
-</details>
+<p><b>Contribuições Pessoais</b></p>
+<p align="justify"><b>Como Product Owner (PO) realizei as seguintes contribuições para o projeto</b></p>
+- Gerenciar o Product Backlog
+- Definir prioridades de negócio
+- Entender as necessidades do cliente e do mercado
+- Estar disponível para o time de desenvolvimento
+- Tomar decisões sobre o produto
+- Focar no valor entregue
 
 <h3>Lições Aprendidas</h3>
 <p align="justify">Como neste projeto era obrigatório a criação de novas telas, desenvolvi os drafts e protótipos de tela pelo aplicativo Figma, foi meu primeiro contato com a ferramenta, tive a oportunidade de exercer a criatividade, e pensamos que seria
