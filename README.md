@@ -87,10 +87,12 @@
 - <b>FileWriter:</b> biblioteca em Java, é usada para escrever texto em arquivos. Ela faz parte do pacote java.io e permite gravar caracteres de forma simples.
 - <b>Swing:</b> é uma API gráfica (GUI) do Java usada para criar interfaces de usuário com janelas, botões, caixas de texto, tabelas, menus, entre outros componentes.
 - <b>Eclipse:</b> uma IDE robusta, gratuita e open-source, ideal para desenvolver aplicações Java e outras linguagens, com muitos recursos para produtividade e organização de código.
+- <b>Figma:</b> plataforma online de design de interfaces que permite criar e colaborar em designs de produtos digitais. Fundada em 2015, a Figma revolucionou o design de interfaces ao oferecer uma ferramenta baseada na web, colaborativa e acessível, permitindo que designers e desenvolvedores trabalhem juntos em projetos.
 
 <p><b>Contribuições Pessoais</b></p>
 <p align="justify"><b>Como Product Owner (PO) realizei as seguintes contribuições para o projeto</b></p>
 
+- Criação de wireframes, draft e protótipo do produto
 - Gerenciar o Product Backlog
 - Definir prioridades de negócio
 - Entender as necessidades do cliente e do mercado
@@ -104,6 +106,12 @@
   <p><a href="https://github.com/MurilowJr/PortfolioBDFatec/blob/main/2semestre/img/Layout%20tela%20Menu%20RH.pdf">Drafts do Figma</p> </a><br>
 <br>
 <p align="justify">Foi muito importante a comunicação com a equipe e com o cliente para a assertividade do nosso projeto, eu aprendi a conhecer melhor as pessoas do meu time, e também a me comunicar de forma em que ambas as partes entendiam, também aprendi muito mais sobre visão de negócio e consegui ter uma organização melhor.</p>
+
+<p>Hard Skills</p>
+
+- <b>Java:</b> foi meu primeiro contato com a linguagem Java, aprendi a desenvolver inputs e outputs, listas, condições como try: catch, bibliotecas sql para ligação com MySQL, e CRUD.
+- <b>MySQL:</b> experiência em gerenciamento de banco de dados linkado com o backend do projeto
+- <b>Swing:</b> experiência em criação de telas com Swing, aprendizado em UI/UX para que a interface seja mais acessível a todo o tipo de pessoa que irá acessar.
 
 <h3>Hard Skills</h3>
 <details>
