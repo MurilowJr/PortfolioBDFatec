@@ -100,89 +100,18 @@
 - Tomar decisões sobre o produto
 - Focar no valor entregue
 
-<h3>Lições Aprendidas</h3>
-<p align="justify">Como neste projeto era obrigatório a criação de novas telas, desenvolvi os drafts e protótipos de tela pelo aplicativo Figma, foi meu primeiro contato com a ferramenta, tive a oportunidade de exercer a criatividade, e pensamos que seria
-  agradável colocar o layout das telas de acordo com as cores da empresa parceira Pro4tech, combando com elementos modernos, como ícones, também pensamos em um layout simples e intuitivo, feito para todos entenderem como funciona com muito mais praticidade.</p>
-  <p><a href="https://github.com/MurilowJr/PortfolioBDFatec/blob/main/2semestre/img/Layout%20tela%20Menu%20RH.pdf">Drafts do Figma</p> </a><br>
-<br>
-<p align="justify">Foi muito importante a comunicação com a equipe e com o cliente para a assertividade do nosso projeto, eu aprendi a conhecer melhor as pessoas do meu time, e também a me comunicar de forma em que ambas as partes entendiam, também aprendi muito mais sobre visão de negócio e consegui ter uma organização melhor.</p>
-
 <p>Hard Skills</p>
 
 - <b>Java:</b> foi meu primeiro contato com a linguagem Java, aprendi a desenvolver inputs e outputs, listas, condições como try: catch, bibliotecas sql para ligação com MySQL, e CRUD.
-- <b>MySQL:</b> experiência em gerenciamento de banco de dados linkado com o backend do projeto
+- <b>MySQL:</b> experiência em gerenciamento de banco de dados linkado com o backend do projeto.
 - <b>Swing:</b> experiência em criação de telas com Swing, aprendizado em UI/UX para que a interface seja mais acessível a todo o tipo de pessoa que irá acessar.
+- <b>Figma:</b> Domínio na criação de drafts e protótipos para o projeto.
 
-<h3>Hard Skills</h3>
-<details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>★★★★★★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Github</td>
-      <td>★★★★★★★★★★</td>
-    </tr>
-    <tr>
-      <td>VSCode</td>
-      <td>★★★★★★★★★★</td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td>★★★★★★★★★☆</td>
-    </tr>
-  </table>
-</details>
+<p>Soft Skills</p>
 
-<h3>Soft Skills</h3>
-<details>
-<summary><b>Clique para ver a lista de soft skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Comunicação Assertiva</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Empatia</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Inteligência Emocional</td>
-      <td>★★★★★★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Resiliência</td>
-      <td>★★★★★★★★☆☆</td>
-    </tr>
-  </table>
-</details>
-  <br>
-  <p><a href="#sumário">Voltar para o início</a></p>
-  <br>
+- <b>Gestão de tempo:</b> como fui o PO, aprendi a ter gestão de tempo, principalmente para divisão de tarefas da equipe, gestão de dúvidas e comunicação com o cliente.
+- <b>Empatia:</b> entendimento das dores do cliente e dos problemas e soluções da equipe foi fundamental para que o projeto fluísse com precisão e assertividade.
+- <b>Tomada de decisão:</b> ao entender as dores e desafios do cliente, conseguindo assim desenvolver o backlog e as tarefas necessárias, de acordo com a prioridade que estabeleci junto ao cliente.
 
 ---
 
