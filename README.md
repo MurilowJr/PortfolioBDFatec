@@ -205,11 +205,13 @@
 
 <p>Link do projeto: <a href="https://github.com/Data-Team23/Tecsus">Tecsus</a></p> 
 
-<p><b>Problema:</b></p>
+<p><b>Problema:</b></p> A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a um cliente. A necessidade de realizar análises técnicas e financeiras para identificar oportunidades de redução de custos e alteração de contratos.
 
-<p><b>Proposta de solução:</b></p>
+<p><b>Proposta de solução:</b></p>  Implementação de um sistema para digitalizar e armazenar os dados das contas de forma estruturada em um banco de dados, facilitando consultas e análises. Desenvolvimento de ferramentas para automatizar a coleta e processamento das contas, reduzindo a necessidade de entrada manual de dados. Utilização de técnicas de análise de dados para identificar padrões de consumo, oportunidades de economia e sugestões para alteração de contratos.
 
 <p><b>Tecnologias utilizadas</b></p>
+
+<b>Python:</b> 
 
 <p><b>Contribuições Pessoais</b></p>
 
