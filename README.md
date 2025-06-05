@@ -196,3 +196,43 @@
 
 - <b>Trabalho em equipe</b>: Durante o desenvolvimento do projeto, como eu tenho bastante experiência em Oracle SQL, um dos integrantes do grupo encontrou dificuldades no entendimento de criação de triggers e de procedures. Em resposta, em sala de aula, auxiliei este integrante e esclareci as dúvidas necessárias, de como um trigger funciona, e como procedures e functions funcionam ao serem chamadas no código.
 - <b>Proatividade:</b> Como eu estava responsável na maior parte do projeto em banco de dados, ao terminar minhas tarefas, me propunha sempre a ajudar em alguma tarefa que não estivesse startada, e também no auxílio de tratamento de erros que ocorriam durante o processo.
+
+---
+
+<h2>5° Semestre - Tecsus</h2>
+
+<p>Data: Janeiro/2024</p>
+
+<p>Link do projeto: <a href="https://github.com/Data-Team23/Tecsus">Tecsus</a></p> 
+
+<p><b>Problema:</b></p>
+
+<p><b>Proposta de solução:</b></p>
+
+<p><b>Tecnologias utilizadas</b></p>
+
+<p><b>Contribuições Pessoais</b></p>
+
+<p><b>Hard Skills</b></p>
+
+<p><b>Soft Skills</b></p>
+
+---
+
+<h2>6° Semestre - SPC Grafeno</h2>
+
+<p>Data: Agosto/2024</p>
+
+<p>Link do projeto: <a href="https://github.com/Data-Team23/SPC-Grafeno">SPC Grafeno</a></p> 
+
+<p><b>Problema:</b></p>
+
+<p><b>Proposta de solução:</b></p>
+
+<p><b>Tecnologias utilizadas</b></p>
+
+<p><b>Contribuições Pessoais</b></p>
+
+<p><b>Hard Skills</b></p>
+
+<p><b>Soft Skills</b></p>
