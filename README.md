@@ -211,11 +211,27 @@
 
 <p><b>Tecnologias utilizadas</b></p>
 
-<b>Python:</b> 
+- <b>Python:</b> linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+- <b>Django:</b> é um framework web de alto nível, escrito em Python, que facilita o desenvolvimento rápido e seguro de aplicações web.
+- <b>PostgreSQL:</b> Banco de dados relacional muito utilizado por sua performance, escalabilidade e confiabilidade. Ele permite armazenar, consultar e manipular dados usando SQL, suportando transações ACID, JSON, índices avançados e replicação. Ideal para aplicações de pequeno a grande porte.
+- <b>Vue:</b> framework JavaScript progressivo usado para construir interfaces de usuário (UI) e aplicativos front-end interativos.
+- <b>Docker:</b> plataforma de código aberto para desenvolvimento, envio e execução de aplicações em contêineres.
+- <b>DevOps:</b> um conjunto de práticas e uma cultura que visa integrar e automatizar o processo de desenvolvimento de software, combinando as equipes de desenvolvimento (Dev) e operações (Ops).
 
 <p><b>Contribuições Pessoais</b></p>
 
+- Modelagem e criação do Banco de Dados
+- Gerenciamento do Banco de Dados
+- Implementação de Banco de Dados com o Backend em Django
+- Criação de testes de versionamento e carga para Banco de Dados
+- Ajuda no desenvolvimento de documentação para Banco de Dados
+
 <p><b>Hard Skills</b></p>
+
+- <b>Python:</b> domínio em elaboração de testes com pytest, programação orientada a objetos, implementação com Django API e postgres para carga de dados.
+- <b>Django:</b> experiência com a biblioteca Django para construção da aplicação, integração de registros com o banco de dados, juntamente com o frontend.
+- <b>Docker:</b> experiência na configuração de Dockerfiles, docker-compose e integração com pipelines de CI/CD, manutenção de containers Docker para o ambiente de desenvolvimento e produção.
+- <b>DevOps:</b> experiência em criação de testes de carga e controle de versionamento de banco de dados com devops.
 
 <p><b>Soft Skills</b></p>
 
