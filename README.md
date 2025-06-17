@@ -207,7 +207,7 @@
 
 <p><b>Problema:</b></p> A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a um cliente. A necessidade de realizar análises técnicas e financeiras para identificar oportunidades de redução de custos e alteração de contratos.
 
-<p><b>Proposta de solução:</b></p>  Implementação de um sistema para digitalizar e armazenar os dados das contas de forma estruturada em um banco de dados, facilitando consultas e análises. Desenvolvimento de ferramentas para automatizar a coleta e processamento das contas, reduzindo a necessidade de entrada manual de dados. Utilização de técnicas de análise de dados para identificar padrões de consumo, oportunidades de economia e sugestões para alteração de contratos.
+<p><b>Proposta de solução:</b>  Implementação de um sistema para digitalizar e armazenar os dados das contas de forma estruturada em um banco de dados, facilitando consultas e análises. Desenvolvimento de ferramentas para automatizar a coleta e processamento das contas, reduzindo a necessidade de entrada manual de dados. Utilização de técnicas de análise de dados para identificar padrões de consumo, oportunidades de economia e sugestões para alteração de contratos.</p>
 
 <p><b>Tecnologias utilizadas</b></p>
 
@@ -234,6 +234,11 @@
 - <b>DevOps:</b> experiência em criação de testes de carga e controle de versionamento de banco de dados com devops.
 
 <p><b>Soft Skills</b></p>
+
+- <b>Trabalho em equipe:</b> graças ao trabalho em equipe, consegui concluir todas as minhas tarefas e também contribui com as tarefas dos meus colegas de equipe.
+- <b>Comunicação Eficaz:</b> conforme fomos avançando no projeto, algumas tarefas se tornaram bem desafiadoras para o desenvolvimento, e graças a comunicação com o grupo, conseguimos ultrapassar essas dificuldades tirando dúvidas e nos auxiliando no projeto.
+- <b>Responsabilidade:</b> tive a responsabilidade de cuidar de toda a parte do banco de dados, inclusive com a automação do banco e testes de carga e controle de versionamento com DevOps, o que foi um grande desafio para mim, mas consegui lidar com tudo o que foi delegado a mim.
+- <b>Curiosidade:</b> como DevOps com banco de dados é algo relativamente novo, corri atrás de saber como funciona e como implementar no nosso projeto, consegui encontrar boas alternativas para dar andamento em nossa aplicação.
 
 ---
 
