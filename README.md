@@ -220,6 +220,8 @@
 
 <p><b>Contribuições Pessoais</b></p>
 
+<p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
+
 - Modelagem e criação do Banco de Dados
 - Gerenciamento do Banco de Dados
 - Implementação de Banco de Dados com o Backend em Django
@@ -256,7 +258,7 @@
 
 - <b>Python:</b> linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 - <b>Django:</b> é um framework web de alto nível, escrito em Python, que facilita o desenvolvimento rápido e seguro de aplicações web.
-- <b>MongoDB:</b>
+- <b>MongoDB:</b>  um banco de dados NoSQL orientado a documentos, utilizado para armazenar, gerenciar e recuperar dados de forma flexível e escalável, especialmente em aplicações que lidam com grandes volumes de dados e estruturas de dados complexas.
 - <b>PostgreSQL:</b> Banco de dados relacional muito utilizado por sua performance, escalabilidade e confiabilidade. Ele permite armazenar, consultar e manipular dados usando SQL, suportando transações ACID, JSON, índices avançados e replicação. Ideal para aplicações de pequeno a grande porte.
 - <b>Vue:</b> framework JavaScript progressivo usado para construir interfaces de usuário (UI) e aplicativos front-end interativos.
 - <b>Jupyter:</b> aplicação web de código aberto usada principalmente para análise de dados, desenvolvimento de código e criação de relatórios interativos
@@ -264,8 +266,24 @@
 
 <p><b>Contribuições Pessoais</b></p>
 
+<p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
 
+- Tratamento de dados para otimizar o aprendizado de máquina
+- Estudo machine learning em clustering e regressão
+- Gerenciamento do Banco de dados relacional
+- Elaboração e integração do banco de dados com django
+- Criação de DDL
+- Testes com postgres
 
 <p><b>Hard Skills</b></p>
 
+- <b>Django:</b> domínio na biblioteca Django em criação e integração de elementos de banco de dados.
+- <b>MongoDB:</b> domínio na linguagem NoSQL do MongoDB, experiência sólida em modelagem de dados NoSQL com MongoDB, incluindo criação de coleções, índices e consultas complexas, desenvolvimento de APIs integradas com MongoDB, utilizando operações CRUD e consultas avançadas para extração de insights de dados não estruturados.
+- <b>Jupyter:</b> domínio na ferramenta principalmente para desenvolvimento com machine learning, utilizado para todo o ciclo de desenvolvimento de Machine Learning, desde a análise exploratória de dados (EDA), passando pelo pré-processamento, seleção de modelos, treinamento, avaliação e geração de gráficos e relatórios interativos.
+- <b>Sklearn:</b> experiência com a biblioteca, aplicando algoritmos de classificação e regressão para análise de dados financeiros, treinamento de algoritmos de classificação, ajuste de hiperparâmetros com GridSearchCV e validação de performance através de métricas.
+
 <p><b>Soft Skills</b></p>
+
+- <b>Autoconfiança:</b> Com os estudos que tivemos durante o período do projeto, tive muita confiança em minhas experiências e estudos para poder aplicar tudo o que aprendi no projeto.
+- <b>Vontade de aprendizado:</b> Tive muita vontade de aprender todo o conteúdo que foi passado durante o semestre, principalmente em machine learning e proteção de dados.
+- <b>Trabalho em equipe:</b> Tive a oportunidade de colaborar bastante com o projeto durante esse semestre, e com os conhecimentos adquiridos durante as aulas, pude auxiliar minha equipe juntamente com todos os membros, facilitando e agilizando as entregas necessárias do projeto.
