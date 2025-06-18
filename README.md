@@ -248,13 +248,23 @@
 
 <p>Link do projeto: <a href="https://github.com/Data-Team23/SPC-Grafeno">SPC Grafeno</a></p> 
 
-<p><b>Problema:</b></p>
+<p><b>Problema:</b> A empresa precisa lidar com um grande volume de dados históricos de ativos financeiros, transações e comportamentos de mercado, necessidade de encontrar padrões ocultos que pudessem indicar tendências de mercado, riscos potenciais ou oportunidades de negócio, antes do projeto, a empresa não possuía uma solução automatizada baseada em aprendizado de máquina para previsão de tendências ou qualificação de ativos financeiros. O desafio proposto era criar um novo produto financeiro com base em inteligência de dados, que pudesse gerar valor comercial real tanto para o registrador quanto para os clientes finais.</p>
 
-<p><b>Proposta de solução:</b></p>
+<p><b>Proposta de solução:</b> Utilizamos algoritmos de aprendizado supervisionado para previsão de tendências de mercado e identificação de ativos com maior potencial de risco ou retorno, foram aplicadas técnicas de limpeza, transformação e análise exploratória para tornar os dados históricos utilizáveis pelos modelos de machine learning. Testamos e comparamos diferentes algoritmos (Regressão, Clustering) para encontrar o modelo com melhor performance, considerando métricas como acurácia e F1-Score, criamos dashboards e relatórios com gráficos e métricas que facilitam a interpretação dos resultados pela equipe de negócios e pela diretoria.</p>
 
 <p><b>Tecnologias utilizadas</b></p>
 
+- <b>Python:</b> linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+- <b>Django:</b> é um framework web de alto nível, escrito em Python, que facilita o desenvolvimento rápido e seguro de aplicações web.
+- <b>MongoDB:</b>
+- <b>PostgreSQL:</b> Banco de dados relacional muito utilizado por sua performance, escalabilidade e confiabilidade. Ele permite armazenar, consultar e manipular dados usando SQL, suportando transações ACID, JSON, índices avançados e replicação. Ideal para aplicações de pequeno a grande porte.
+- <b>Vue:</b> framework JavaScript progressivo usado para construir interfaces de usuário (UI) e aplicativos front-end interativos.
+- <b>Jupyter:</b> aplicação web de código aberto usada principalmente para análise de dados, desenvolvimento de código e criação de relatórios interativos
+- <b>Sklearn:</b> biblioteca de código aberto para a linguagem de programação Python, desenvolvida especificamente para facilitar a implementação de algoritmos de machine learning.
+
 <p><b>Contribuições Pessoais</b></p>
+
+
 
 <p><b>Hard Skills</b></p>
 
