@@ -7,7 +7,9 @@
 <p align="justify">Atualmente possuo experiência em engenharia de dados na empresa Giap, utilizando PL/SQL Oracle e low-code com Oracle Application Express(Apex), 
   também desenvolvo relatórios com JasperReports, sou responsável pela administração da parte de Patrimônios públicos de mais de 25 cidades do Estado de São Paulo,
   e atualmente estou encarregado na administração de arquivos contábeis de LRFs (AUDESP, STN, Ensino, Saúde), nas quais eu desenvolvo os scripts de acordo com as
-  regras propostas pelo Estado.</p>
+  regras propostas pelo Estado, também faço atualizações e manutenção nas aplicações da empresa para versões mais recentes e modernas, com códigos mais limpos e 
+  telas mais dinâmicas.</p>
+<p align="justify">Meus hobbies preferidos são: jogar videogames, caminhada e corrida, jogar vôlei, ler livros de aventura e suspense, assistir séries e filmes (principalmente de fantasia).</p>
 
 <h2>Contato</h2>
   <a href="www.linkedin.com/in/murilo-josé-de-brito-junior-32403b157">
@@ -92,13 +94,14 @@
 <p><b>Contribuições Pessoais</b></p>
 <p align="justify"><b>Como Product Owner (PO) realizei as seguintes contribuições para o projeto</b></p>
 
-- Criação de wireframes, draft e protótipo do produto
-- Gerenciar o Product Backlog
-- Definir prioridades de negócio
-- Entender as necessidades do cliente e do mercado
-- Estar disponível para o time de desenvolvimento
-- Tomar decisões sobre o produto
-- Focar no valor entregue
+- Criação de wireframes, drafts e protótipos de telas no Figma, definindo a experiência do usuário (UX) e a estrutura visual do sistema.
+- Gerenciamento do Product Backlog, organizando, refinando e priorizando as demandas de acordo com o valor de negócio.
+- Definição de prioridades estratégicas, alinhando as necessidades do cliente com as capacidades do time de desenvolvimento.
+- Levantamento e entendimento das necessidades do cliente, dos usuários finais e do mercado, garantindo que o sistema atendesse aos objetivos reais do negócio.
+- Atuação constante no alinhamento entre stakeholders e equipe técnica, esclarecendo dúvidas de requisitos e regras de negócio.
+- Suporte contínuo ao time de desenvolvimento, estando disponível para tomada de decisão e esclarecimento de funcionalidades.
+- Participação ativa nas decisões do produto, sempre com foco na entrega de valor, eficiência do sistema e satisfação do usuário.
+- Acompanhamento do andamento do projeto, validação de entregas e suporte nas revisões e melhorias do sistema.
 
 <p>Hard Skills</p>
 
@@ -138,10 +141,13 @@
 <p><b>Contribuições Pessoais</b></p>
 <p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
 
-- Implementação de backend com framework Springboot em java
-- Criação de endpoint de buscar nome por vendedor
-- Implementação de criar metas atingidas
-- Desenvolvimento de Controllers, Services e Repositories
+- Desenvolvimento completo do backend em Java com Spring Boot, estruturando a aplicação em camadas (Controllers, Services e Repositories).
+- Criação e implementação de endpoints REST, incluindo a funcionalidade de consulta de vendedores por nome, assegurando eficiência nas buscas e padronização das respostas.
+- Implementação da lógica de criação e gerenciamento de metas atingidas, permitindo o acompanhamento do desempenho de vendas.
+- Integração do backend com o banco de dados PostgreSQL, realizando operações de persistência, consultas, validações e tratamento de exceções.
+- Apoio na definição de regras de negócio, garantindo que as funcionalidades atendessem corretamente aos requisitos do sistema.
+- Participação em testes de funcionalidades, ajustes de performance e correções de falhas ao longo do desenvolvimento.
+- Colaboração com a equipe no alinhamento técnico, divisão de tarefas e evolução contínua do projeto.
 
 
 <p><b>Hard Skills:</b></p>
@@ -180,11 +186,13 @@
 <p><b>Contribuições Pessoais</b></p>
 <p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
 
-- Modelagem e criação do banco de dados
-- Gerenciamento de banco de dados
-- Criação do modelo de relatório para envio no e-mail dos clientes
-- Criação de documentação do produto
-- Criação de endpoints do backend com o banco de dados
+- Modelagem conceitual, lógica e física do banco de dados, garantindo integridade, desempenho e escalabilidade.
+- Criação, gerenciamento e manutenção do banco de dados em Oracle, incluindo tabelas, relacionamentos, consultas e procedimentos.
+- Desenvolvimento do modelo de relatório automático para envio por e-mail aos clientes, assegurando clareza das informações e padronização visual.
+- Participação na criação e organização da documentação do sistema, auxiliando na padronização de processos e uso da aplicação.
+- Desenvolvimento de endpoints no backend integrados ao banco de dados, assegurando comunicação eficiente entre o front-end e a camada de dados.
+- Apoio na validação de dados, testes de funcionalidades e correções de falhas, contribuindo para a estabilidade e qualidade do sistema.
+- Colaboração com a equipe no alinhamento de requisitos, revisão de funcionalidades e melhorias contínuas do projeto.
   
 <p><b>Hard Skills</b></p>
 
@@ -196,6 +204,8 @@
 
 - <b>Trabalho em equipe</b>: Durante o desenvolvimento do projeto, como eu tenho bastante experiência em Oracle SQL, um dos integrantes do grupo encontrou dificuldades no entendimento de criação de triggers e de procedures. Em resposta, em sala de aula, auxiliei este integrante e esclareci as dúvidas necessárias, de como um trigger funciona, e como procedures e functions funcionam ao serem chamadas no código.
 - <b>Proatividade:</b> Como eu estava responsável na maior parte do projeto em banco de dados, ao terminar minhas tarefas, me propunha sempre a ajudar em alguma tarefa que não estivesse startada, e também no auxílio de tratamento de erros que ocorriam durante o processo.
+- <b>Pensamento Analítico:</b> Também pude ajudar muito minha equipe com pensamento analítico, ajudando a resolver problemas, desenvolvendo um código mais limpo e padronizado.
+- <b>Resolução de Problemas:</b> capaz de identificar falhas, analisar causas, propor soluções estratégicas e implementar melhorias de forma eficiente. Ao longo do projeto em Java e, enfrentei desafios técnicos, sempre utilizando análise de cenários, testes e depuração para chegar à melhor solução.
 
 ---
 
@@ -222,11 +232,13 @@
 
 <p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
 
-- Modelagem e criação do Banco de Dados
-- Gerenciamento do Banco de Dados
-- Implementação de Banco de Dados com o Backend em Django
-- Criação de testes de versionamento e carga para Banco de Dados
-- Ajuda no desenvolvimento de documentação para Banco de Dados
+- Modelagem conceitual, lógica e física do banco de dados, considerando o relacionamento entre clientes, contratos e faturas, garantindo consistência e escalabilidade.
+- Criação, configuração e gerenciamento do banco de dados PostgreSQL, incluindo tabelas, relacionamentos, índices, validações e otimização de consultas.
+- Integração do banco de dados com o backend desenvolvido em Django, assegurando persistência segura e eficiente das informações.
+- Implementação de testes de versionamento, carga e consistência de dados, garantindo integridade e desempenho em grandes volumes de registros.
+- Apoio no desenvolvimento da documentação técnica do banco de dados, facilitando a manutenção, evolução do sistema e entendimento por novos desenvolvedores.
+- Suporte na análise de requisitos técnicos relacionados à estrutura de dados, contribuindo para decisões arquiteturais do sistema.
+- Colaboração com a equipe no alinhamento técnico, revisão de modelagens e melhorias contínuas da solução.
 
 <p><b>Hard Skills</b></p>
 
@@ -268,12 +280,14 @@
 
 <p align="justify"><b>Como desenvolvedor realizei as seguintes contribuições para o projeto</b></p>
 
-- Tratamento de dados para otimizar o aprendizado de máquina
-- Estudo machine learning em clustering e regressão
-- Gerenciamento do Banco de dados relacional
-- Elaboração e integração do banco de dados com django
-- Criação de DDL
-- Testes com postgres
+- Tratamento, limpeza e preparação de dados (Data Cleaning & Preprocessing) para otimizar o desempenho dos modelos de aprendizado de máquina.
+- Estudo, aplicação e comparação de algoritmos de Machine Learning em Clustering e Regressão, avaliando métricas como acurácia e F1-Score para definição do melhor modelo.
+- Gerenciamento do banco de dados relacional (PostgreSQL), realizando configurações, testes de consistência e validações de desempenho.
+- Elaboração e execução de scripts DDL, estruturando tabelas, relacionamentos, constraints e índices para garantir integridade dos dados.
+- Integração do banco de dados com o backend em Django, assegurando comunicação eficiente entre a camada de dados e a aplicação.
+- Realização de testes de persistência, carga e performance no PostgreSQL, garantindo confiabilidade no armazenamento das informações.
+- Apoio na análise de dados históricos e validação dos resultados gerados pelos modelos preditivos.
+- Colaboração com a equipe no alinhamento técnico, revisão dos modelos e evolução contínua do produto financeiro.
 
 <p><b>Hard Skills</b></p>
 
